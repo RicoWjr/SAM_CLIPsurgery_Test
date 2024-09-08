@@ -1,7 +1,7 @@
 # SAM_CLIPsurgery
 SAM + CLIPsurgery
 
-**Note**: This project was created at the end of 2022, when **SAM** had just been proposed, but the **"point"** was not yet used as a **guide** to segment objects at specific locations. This project aims to combine *CLIPsurgery*, an explainable work by HKUST, with SAM to achieve understanding and segmentation of objects at user-specified locations.
+**Note**: This project was created at the end of 2022, when **SAM** had just been proposed, but the **"point"** was not used as a **guide** to segment objects at specific locations. This project aims to combine *CLIPsurgery*, an explainable work by HKUST, with SAM to achieve understanding and segmentation of objects at user-specified locations.
 
 ### Visualization
 
