@@ -1,6 +1,7 @@
 # SAM_CLIPsurgery
 SAM + CLIPsurgery
 
-![heatmap](helmet.png)
+<img src="helmet.png" width="70%" />
 
-![final_map](car.png)
+
+<img src="car.png" width="70%" />
